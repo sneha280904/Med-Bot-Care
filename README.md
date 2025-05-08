@@ -1,5 +1,7 @@
 # Med-Bot-Care - 🩺 Medical Chatbot 🏥🤖
 
+Note: The source code for this project has been made private intentionally.
+
 Welcome to **Med-Bot-Care**, an AI-powered healthcare chatbot designed to provide medical information, answer health-related queries, and assist users in managing their health. Whether you need information about symptoms, medications, or general health tips, Med-Bot-Care is here to help! 🌟💬
 
 ## Features ✨
